@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javafx-swt">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Downloads/JavaFX/lib/javafx-swt.jar!/" />
+      <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Downloads/JavaFX/lib/javafx.base.jar!/" />
+      <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Downloads/JavaFX/lib/javafx.controls.jar!/" />
+      <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Downloads/JavaFX/lib/javafx.fxml.jar!/" />
+      <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Downloads/JavaFX/lib/javafx.graphics.jar!/" />
+      <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Downloads/JavaFX/lib/javafx.media.jar!/" />
+      <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Downloads/JavaFX/lib/javafx.swing.jar!/" />
+      <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Downloads/JavaFX/lib/javafx.web.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
