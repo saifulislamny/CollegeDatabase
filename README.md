@@ -6,27 +6,27 @@ Modified version of Academic Project
 [will be uploaded soon]
 
 ## File Structure: 
-.
-├── CollegeDatabase.iml
-├── README.md
-├── connector
-│   └── mysql-connector-java-8.0.20
-│       ├── mysql-connector-java-8.0.20.jar
-├── out
-│   └── production
-│       └── CollegeDatabase
-│           └── collegedb
-│               ├── DatabaseModification$1.class
-│               ├── DatabaseModification.class
-│               ├── DatabaseModificationTest.class
-│               ├── MyColor.class
-│               └── PieChart.class
-└── src
-    └── collegedb
-        ├── DatabaseModification.java
-        ├── DatabaseModificationTest.java
-        ├── MyColor.java
-        └── PieChart.java
+.  
+├── CollegeDatabase.iml  
+├── README.md  
+├── connector  
+│   └── mysql-connector-java-8.0.20  
+│       ├── mysql-connector-java-8.0.20.jar  
+├── out  
+│   └── production  
+│       └── CollegeDatabase  
+│           └── collegedb  
+│               ├── DatabaseModification$1.class  
+│               ├── DatabaseModification.class  
+│               ├── DatabaseModificationTest.class  
+│               ├── MyColor.class  
+│               └── PieChart.class  
+└── src  
+    └── collegedb  
+        ├── DatabaseModification.java  
+        ├── DatabaseModificationTest.java  
+        ├── MyColor.java  
+        └── PieChart.java  
 
 
 ## Setup development environment:
